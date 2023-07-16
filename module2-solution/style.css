@@ -27,7 +27,7 @@ div {
     margin-right: auto;
     margin-bottom: auto;
 }
-.main1 {
+main1 {
     float: right;
     width: 100px;
     padding: 5px;
@@ -40,7 +40,7 @@ div {
 
 }
 
-.main2 {
+main2 {
     float: right;
     color: white;
     width: 100px;
@@ -54,7 +54,7 @@ div {
 
 }
 
-.main3 {
+main3 {
     color: black;
     float: right;
     width: 100px;
@@ -68,7 +68,7 @@ div {
 
 }
 
-.description {
+description {
     padding: 5px;
     border: none;
     background-color: gray;
