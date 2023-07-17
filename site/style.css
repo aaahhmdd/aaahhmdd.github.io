@@ -1,1 +1,14 @@
+* {
+    background-color: black;
+    font-family: serif sans-serif ;
+}
+.container{
+    background-color: antiquewhite;
 
+}
+.hearder{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: crimson;
+}
